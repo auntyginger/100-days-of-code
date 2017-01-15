@@ -11,12 +11,15 @@
 **Link to work:** [GreenNinja.co](http://www.greenninja.co)
 
 
-### Day 1: 
+### Day 1: 15 Jan 2017
+
+**Today's Progress**: Worked on FCC - HTML and CSS modules for a start as a refresher. 
+
+**Thoughts**: disciplined and productive day. note to self: afternoon being the best time to work on practice. 
+
+
+### Day 2: 16 Jan 2017
 
 **Today's Progress**: 
 
 **Thoughts**:
-<Inspiration: I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.>
-
-**Link(s) to work**
-
