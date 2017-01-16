@@ -20,6 +20,23 @@
 
 ### Day 2: 16 Jan 2017
 
-**Today's Progress**: 
+**Today's Progress**: refreshed my memory on Bootstrap and jQuery modules.
+
+**Thoughts**: still disciplined. my muscle memory worked well for those frequently used shortcuts i did back then. tomorrow, i shall be working on my personal portfolio!
+
+
+
+
+
+
+
+
+
+###Day 
+
+**Today's Progress**:
 
 **Thoughts**:
+
+**Link to work:** []()
+
