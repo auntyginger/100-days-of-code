@@ -28,7 +28,7 @@
 
 **Today's Progress**: Feels good to be back coding! Follow up on my Free Code Camp Portfolio task. 
 
-**Thoughts**: I was away from coding for the past few days so it feels good to be back and get some work done. I realised I have forgotten about some CSS applications so working on my portfolio really helps to get on track.
+**Thoughts**: I was away from coding for the past few days so it feels good to be back and get some work done. I realised I have forgotten about some CSS applications so working on my portfolio really helps to get on track. I also realised I prefer to work with HTML and CSS from (top to bottom) - to complete the page section by section will allow me to feel more satisfactory then if i were to code the whole page in HTML and then followed by CSS.
 
 **Link to work:** [Portfolio - WIP](https://codepen.io/auntyginger/pen/KaNazO/)
 
