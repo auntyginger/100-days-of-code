@@ -24,7 +24,13 @@
 
 **Thoughts**: still disciplined. my muscle memory worked well for those frequently used shortcuts i did back then. tomorrow, i shall be working on my personal portfolio!
 
+###Day 3: 23 Jan 2017
 
+**Today's Progress**: Feels good to be back coding! Follow up on my Free Code Camp Portfolio task. 
+
+**Thoughts**: I was away from coding for the past few days so it feels good to be back and get some work done. I realised I have forgotten about some CSS applications so working on my portfolio really helps to get on track.
+
+**Link to work:** [Portfolio - WIP](https://codepen.io/auntyginger/pen/KaNazO/)
 
 
 
