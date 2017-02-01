@@ -32,7 +32,15 @@
 
 **Link to work:** [Portfolio - WIP](https://codepen.io/auntyginger/pen/KaNazO/)
 
+###Day 4: 1 Feb 2017
 
+**Today's Progress**: Though we bought the WordPress template, I managed to work on a few customisation on my team's personal blog. 
+-Adjusted the related posts categories to ensure that it ran the right filter. (still in KIV status though as our blog didn't have enough posts in other category)
+-Increase font size and padding of some features using REM.
+
+**Thoughts**: I feel like I got quite a bit of work done this evening. Hence, I should diligently record an journal entry. Just wondering what I should prepare myself for as a Wordpress Developer (or at least managing my own site). My portfolio is still WIP. As for resources, I feel that [DASH](https://dash.generalassemb.ly/projects) has a nice tutorial environment for me as a quick refresher as i get to build on their projects though some parts are outdated. I was at it for short periods of time over the past few days. GOGOGO!
+
+**Link to work:** [GreenNinja.co](http://www.greenninja.co)
 
 
 
