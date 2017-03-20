@@ -24,7 +24,7 @@
 
 **Thoughts**: still disciplined. my muscle memory worked well for those frequently used shortcuts i did back then. tomorrow, i shall be working on my personal portfolio!
 
-###Day 3: 23 Jan 2017
+### Day 3: 23 Jan 2017
 
 **Today's Progress**: Feels good to be back coding! Follow up on my Free Code Camp Portfolio task. 
 
@@ -32,7 +32,7 @@
 
 **Link to work:** [Portfolio - WIP](https://codepen.io/auntyginger/pen/KaNazO/)
 
-###Day 4: 1 Feb 2017
+### Day 4: 1 Feb 2017
 
 **Today's Progress**: Though we bought the WordPress template, I managed to work on a few customisation on my team's personal blog. 
 -Adjusted the related posts categories to ensure that it ran the right filter. (still in KIV status though as our blog didn't have enough posts in other category)
@@ -46,7 +46,7 @@
 
 
 
-###Day 
+### Day 
 
 **Today's Progress**:
 
